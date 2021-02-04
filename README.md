@@ -9,10 +9,10 @@ This is a classical pong game implementation. Enjoy :D
 - Game is served at `localhost:4000`
 
 ### Used technologies
-- client side
+- **client side**
   - vanilla javascript
   - html5 canvas
   - socket.io
-- server side
+- **server side**
   - express.js
   - socket.io
